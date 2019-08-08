@@ -12,6 +12,6 @@ Find the original raw data:
 
 - Census chapters used for the analysis: _cap000_, _cap100_, _cap200_, _cap300_
 - Cleaning-up: [_Do file Preparacion BD penales.do_](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/Do%20file%20Preparacion%20BD%20penales.do)
-- Master dataset: _BD_Penales.dta_ [here](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/BD_Penales.dta)
-- Data analysis: _da_presos_v8.do_ [here](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/da_presos_v8.do)
+- Master dataset: [_BD_Penales.dta_](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/BD_Penales.dta)
+- Data analysis: [_da_presos_v8.do_](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/da_presos_v8.do)
 
