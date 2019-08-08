@@ -5,5 +5,13 @@ Hereby the authors share the code to explore associated factors to self-reported
 
 ## data
 
-Find the sources of the original raw data:
+Find the original raw data:
 > http://iinei.inei.gob.pe/microdatos/
+
+## codebook
+
+- Census chapters used for the analysis:_cap000_, _cap100_, _cap200_, _cap300_
+- Cleaning-up: _Do file Preparacion BD penales.do_
+- Master dataset: _BD_Penales.dta_
+- Data analysis: _da_presos_v8.do_
+
