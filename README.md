@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/170770869.svg)](https://zenodo.org/badge/latestdoi/170770869)
+
+
 # Self-reported HIV in Peruvian prison census
 ## overview
 
