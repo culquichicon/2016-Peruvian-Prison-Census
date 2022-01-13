@@ -8,7 +8,7 @@ Hereby the authors share the code to explore associated factors with self-report
 
 ## data
 
-Find the original raw data:
+Find the original raw data here:
 > http://iinei.inei.gob.pe/microdatos/
 
 ## codebook
